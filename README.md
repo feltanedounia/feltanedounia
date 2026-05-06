@@ -44,7 +44,7 @@
 
 ## 📈 GitHub Stats
 
-![Dounia's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Dounia's GitHub stats](https://github-readme-stats.vercel.app/api?username=feltanedounia&show_icons=true)
 
 ---
 
@@ -53,13 +53,6 @@
 - LinkedIn: [https://www.linkedin.com/in/dounia-feltane-240719348/]  
 - Email: [feltanedounia@gmail.com]  
 
----
 
-## ✨ Vision
-
-I aim to build AI systems that go beyond general use —  
-focusing on **specialized, high-impact applications**, especially in fields like healthcare, where intelligent systems can meaningfully improve lives.
-
----
 
 > “AI is most powerful when it is purposeful.”
