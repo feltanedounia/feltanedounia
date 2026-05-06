@@ -42,12 +42,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Dounia's GitHub stats](https://github-readme-stats.vercel.app/api?username=feltanedounia&show_icons=true)
-
----
-
 ## 🌐 Connect With Me
 
 - LinkedIn: [https://www.linkedin.com/in/dounia-feltane-240719348/]  
