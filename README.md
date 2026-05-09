@@ -9,7 +9,7 @@
 ## About Me
 
 - Focused on **Machine Learning & Applied AI**
-- Particularly interested in **AI applications in healthcare and specialized sectors**
+- Particularly interested in **AI applications in healthcare and IoT systems**
 - Exploring how data can drive **decision-making and human-centered solutions**
 - Currently learning: ML models, data analysis, and AI system design  
 - Passionate about building **ethical, impactful, and scalable AI solutions**
