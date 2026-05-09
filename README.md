@@ -1,4 +1,4 @@
-# Hi, I'm Dounia 👋
+# Hi, I'm Dounia (pronounced Dunya)
 
 🎓 Data science student  
 🤖 Aspiring Machine Learning Engineer  
@@ -8,21 +8,21 @@
 
 ## About Me
 
-- 🔬 Focused on **Machine Learning & Applied AI**
-- 🧠 Particularly interested in **AI applications in healthcare and specialized sectors**
-- 📊 Exploring how data can drive **decision-making and human-centered solutions**
-- 🌱 Currently learning: ML models, data analysis, and AI system design  
-- 🌍 Passionate about building **ethical, impactful, and scalable AI solutions**
+- Focused on **Machine Learning & Applied AI**
+- Particularly interested in **AI applications in healthcare and specialized sectors**
+- Exploring how data can drive **decision-making and human-centered solutions**
+- Currently learning: ML models, data analysis, and AI system design  
+- Passionate about building **ethical, impactful, and scalable AI solutions**
 
 ---
 
 ## Areas of Interest
 
-- 🏥 AI in Healthcare (diagnostics, patient monitoring, predictive systems)  
-- 🧠 NeuroScience + AI integration  
-- 📊 Data-driven systems & predictive modeling  
-- 🤖 Large Language Models  
-- 🌱 AI for social good and underserved communities  
+- AI in Healthcare (diagnostics, patient monitoring, predictive systems)  
+- NeuroScience + AI integration  
+- Data-driven systems & predictive modeling  
+- Large Language Models  
+- AI for social good and underserved communities  
 
 ---
 
