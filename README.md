@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🔬 Focused on **Machine Learning & Applied AI**
 - 🧠 Particularly interested in **AI applications in healthcare and specialized sectors**
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧪 Areas of Interest
+## Areas of Interest
 
 - 🏥 AI in Healthcare (diagnostics, patient monitoring, predictive systems)  
 - 🧠 NeuroScience + AI integration  
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages:** Python, C, C++, SQL, Java  
 - **Libraries (learning):** Pandas, NumPy, Scikit-learn, Scikit-learn, Matplotlib, PyTorch, TensorFlow  
@@ -34,7 +34,7 @@
 
 ---
 
-## 📌 Projects
+## Projects
 🌱 *Quran Garden Project* – Habit tracking + reflection system with adaptive feedback   
 🎨 *Kaggle Competition: Artist Classification (CNN Model)* – Built a deep Convolutional Neural Network to classify artwork by artist using image data; focused on feature extraction, image preprocessing, and model optimization    
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 - LinkedIn: [https://www.linkedin.com/in/dounia-feltane-240719348/]  
 - Email: [feltanedounia@gmail.com]  
