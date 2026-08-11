@@ -1,52 +1,52 @@
-# Hi, I'm Dounia (pronounced Dunya)
+# Dounia Feltane
 
-🎓 Data science student  
-🤖 Aspiring Machine Learning Engineer  
-🧠 Interested in applied AI for real-world impact  
+Data Science & Biomedical Engineering student building applied machine learning for healthcare and industrial predictive systems, spanning early-warning risk models and real-time infrastructure health scoring.
 
----
-
-## About Me
-
-- Focused on **Machine Learning & Applied AI**
-- Particularly interested in **AI applications in healthcare and IoT systems**
-- Exploring how data can drive **decision-making and human-centered solutions**
-- Currently learning: ML models, data analysis, and AI system design  
-- Passionate about building **ethical, impactful, and scalable AI solutions**
+Based between Algeria and South Korea. Available for freelance and contract ML/data science work.
 
 ---
 
-## Areas of Interest
+## Focus Areas
 
-- AI in Healthcare (diagnostics, patient monitoring, predictive systems)  
-- NeuroScience + AI integration  
-- Data-driven systems & predictive modeling  
-- Large Language Models  
-- AI for social good and underserved communities  
+- **Predictive health and risk modeling** — converting real-world sensor and clinical data into early-warning systems. 
+- **Healthcare and biomedical machine learning** — risk prediction, clinical time-series analysis, and diagnostic support models, with emphasis on evaluation rigor over leaderboard performance.
+- **Applied NLP and computer vision** — recommendation systems and image classification.
 
----
-
-## Tech Stack
-
-- **Languages:** Python, C, C++, SQL, Java  
-- **Libraries (learning):** Pandas, NumPy, Scikit-learn, Scikit-learn, Matplotlib, PyTorch, TensorFlow  
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab    
+Models are validated the way they would actually be used in practice: chronological splits, leakage checks, and honest baselines, rather than results that only hold up on a single train/test split.
 
 ---
 
-## Projects
-🌱 *Quran Garden Project* – Habit tracking + reflection system with adaptive feedback   
-🎨 *Kaggle Competition: Artist Classification (CNN Model)* – Built a deep Convolutional Neural Network to classify artwork by artist using image data; focused on feature extraction, image preprocessing, and model optimization    
+## Featured Projects
 
-*(More ML-focused projects coming soon...)*
+**Sepsis Prediction** — Early-warning risk model for sepsis onset from clinical time-series data. (repository to be linked soon)
+
+**[SCADAFaultPrediction](https://github.com/feltanedounia/SCADAFaultPrediction)** — End-to-end predictive maintenance pipeline for telecom infrastructure. Includes alarm episode analysis, environmental anomaly detection (Isolation Forest, HMM, change-point detection), and a 6-hour-ahead health-score forecast, benchmarked against XGBoost and LightGBM with Optuna tuning. Built with strict chronological validation to prevent data leakage.
+
+**[Book-Recommendation-System](https://github.com/feltanedounia/Book-Recommendation-System)** — NLP-based recommendation engine suggesting similar books from text and user data.
+
+**[Artist-CNN-Classifier](https://github.com/feltanedounia/Artist-CNN-Classifier)** — Custom CNN (PyTorch) for classifying artwork by artist. Placed 18th of 110 in the associated Kaggle competition.
+
+Additional projects and written case studies in progress.
 
 ---
 
-## Connect With Me
+## Technical Skills
 
-- LinkedIn: [https://www.linkedin.com/in/dounia-feltane-240719348/]  
-- Email: [feltanedounia@gmail.com]  
+**Languages:** Python, C, C++, SQL, Java
 
+**Machine Learning / Data:** Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, XGBoost, LightGBM, Statsmodels, Optuna
 
+**Tools:** Git, Docker, Jupyter, VS Code, Streamlit
 
-> “AI is most powerful when it is purposeful.”
+---
+
+## Education
+
+Data Science & Biomedical Engineering, Hanyang University (currently in my third year)
+
+---
+
+## Contact
+
+LinkedIn: [dounia-feltane](https://www.linkedin.com/in/dounia-feltane-240719348/)
+Email: feltanedounia@hanyang.ac.kr
