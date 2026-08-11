@@ -45,6 +45,12 @@ Additional projects and written case studies in progress.
 Data Science & Biomedical Engineering, Hanyang University (currently in my third year)
 
 ---
+ 
+## Writing
+ 
+Blog: [feltanedounia.hashnode.dev](https://hashnode.com/@feltanedounia) — project case studies and technical write-ups.
+
+---
 
 ## Contact
 
