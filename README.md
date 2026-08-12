@@ -2,8 +2,6 @@
 
 Data Science & Biomedical Engineering student building applied machine learning for healthcare and industrial predictive systems, spanning early-warning risk models and real-time infrastructure health scoring.
 
-Based between Algeria and South Korea. Available for freelance and contract ML/data science work.
-
 ---
 
 ## Focus Areas
